@@ -27,7 +27,7 @@ USE `hostel`;
 --
 -- Table structure for table `hostel_table`
 --
-
+--table_hostel_db
 CREATE TABLE IF NOT EXISTS `hostel_table` (
   `COER_ID` int(20) NOT NULL,
   `Name` varchar(30) NOT NULL,
